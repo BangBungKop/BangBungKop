@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/athifbinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="athifbinu" height="30" width="40" /></a>
+<a href="https://dev.to/bangbungkop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="athifbinu" height="30" width="40" /></a>
 <a href="https://twitter.com/athif_binu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="athif_binu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammed-athif-93a249214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-athif-93a249214/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/athif-binu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="athif-binu" height="30" width="40" /></a>
